@@ -8,7 +8,7 @@ Slicer turns the edges of your Mac's trackpad into sliders. Slide along the left
 
 1. Download **Slicer.zip** from [Releases](../../releases/latest) and unzip it.
 2. Move **Slicer** to your Applications folder.
-3. The first time, right-click Slicer and choose **Open**, then **Open** again. Slicer isn't notarized by Apple yet, so a plain double-click is blocked.
+3. Open Slicer. Because it isn't notarized by Apple yet, macOS stops it the first time. Go to System Settings → Privacy & Security, scroll down and click **Open Anyway** next to Slicer. (On macOS 14 you can instead right-click Slicer and choose **Open**.)
 4. Slicer asks for **Accessibility**, so it can read the trackpad and move windows. Turn it on in System Settings → Privacy & Security → Accessibility.
 
 Needs macOS 14 or later and a Mac with a trackpad.
