@@ -20,7 +20,12 @@ Needs macOS 14 or later and a Mac with a trackpad.
 - **The island:** Now Playing, next meeting, battery, downloads, internet drops, prices in lari, dollars and euros.
 - **Claude Code:** your usage limits, and Allow, Deny or answer Claude's questions from the island.
 - **Your day:** a morning card, eye breaks, an end-of-day wrap-up and where your time went.
+- **Screenshots:** take one with three fingers to copy its text, search Google, or pick a date to get a reminder with the picture inside.
 
 <img src="images/island-morning.png" width="420"> <img src="images/overlay-question.png" width="420">
+
+<img src="images/screenshot-reminder.png" width="420">
+
+For the picture inside reminders, Slicer offers to add its "Slicer Reminder" shortcut the first time (Settings → Gestures → Screenshot Text).
 
 Every feature can be switched off in Settings. Your settings and counts stay on your Mac; Slicer only goes online for exchange rates, the weather and your Claude usage.
